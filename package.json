@@ -15,7 +15,10 @@
   "devDependencies": {
     "axios": "^0.16.2",
     "chai": "^4.0.2",
-    "mocha": "^3.5.0",
+    "mocha": "^6.1.4",
     "nightmare": "^3.0.1"
+  },
+  "dependencies": {
+    "now": "^15.2.0"
   }
 }
